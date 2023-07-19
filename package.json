@@ -1,6 +1,6 @@
 {
   "name": "ixstoragest",
-  "version": "0.0.0",
+  "version": "1.0.0-0",
   "description": "simple state management with storage",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
