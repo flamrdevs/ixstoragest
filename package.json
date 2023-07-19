@@ -41,6 +41,6 @@
   },
   "dependencies": {
     "ixstorage": "1.0.0-0",
-    "ixstore": "1.0.0-0"
+    "ixstore": "1.0.0-1"
   }
 }

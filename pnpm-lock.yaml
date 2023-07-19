@@ -5,8 +5,8 @@ dependencies:
     specifier: 1.0.0-0
     version: 1.0.0-0
   ixstore:
-    specifier: 1.0.0-0
-    version: 1.0.0-0
+    specifier: 1.0.0-1
+    version: 1.0.0-1
 
 devDependencies:
   '@types/node':
@@ -2180,8 +2180,8 @@ packages:
     resolution: {integrity: sha512-wRTA4SPJFA1WV+N89+9TKInjsI+3KZRM+FoVLfDY3nbCO6romsd6v26jziqMfe8b8lgwSBNSPZsdA9W3MnFGBA==}
     dev: false
 
-  /ixstore@1.0.0-0:
-    resolution: {integrity: sha512-5eJBTwMBnfDfdKOHaG49sFo5e5HwPZHMpbNe5FJAyWzJhbaX5QwBucTZwAB1ngrCGhNxIyPVkUxZVvUEWg5pOw==}
+  /ixstore@1.0.0-1:
+    resolution: {integrity: sha512-RVfm/vexsPklFxZpb2Fg7g77HlrpKjrig79e+y0rCxZp+sqL42hCPgZ7Fc/0u5K14OsJwIIyTYgmhLDaktOg+w==}
     dependencies:
       ixclone: 1.0.0-0
     dev: false
