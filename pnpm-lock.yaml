@@ -2,11 +2,11 @@ lockfileVersion: '6.0'
 
 dependencies:
   ixstorage:
-    specifier: 1.0.0-0
-    version: 1.0.0-0
+    specifier: 1.0.0
+    version: 1.0.0
   ixstore:
-    specifier: 1.0.0-1
-    version: 1.0.0-1
+    specifier: 1.0.0
+    version: 1.0.0
 
 devDependencies:
   '@types/node':
@@ -2172,18 +2172,18 @@ packages:
       iterate-iterator: 1.0.2
     dev: true
 
-  /ixclone@1.0.0-0:
-    resolution: {integrity: sha512-ui4Pd8GhOsUvmKL5QZxbKYcg/2YrUJVJ+twF2rkakklljBIM1m+G/GbQpnJExbYnJrDb9Nx8ennhvwme1YnfAQ==}
+  /ixclone@1.0.0:
+    resolution: {integrity: sha512-Ue/88sjhflqndwzzEmQhgugaq3ALHEchtNMlJgaJBFP/wLcu7Z/SQFqBthaNajhtUPhJs/ONmP6leVwjSW4sZg==}
     dev: false
 
-  /ixstorage@1.0.0-0:
-    resolution: {integrity: sha512-wRTA4SPJFA1WV+N89+9TKInjsI+3KZRM+FoVLfDY3nbCO6romsd6v26jziqMfe8b8lgwSBNSPZsdA9W3MnFGBA==}
+  /ixstorage@1.0.0:
+    resolution: {integrity: sha512-RPKxYbDlWKajIpllYx5AN2UHTryLqpjOetcFcY/3bXkQFlzGOdlXB/6wqH977pJA3fyDJG6eV9zZNQaL7av6Pg==}
     dev: false
 
-  /ixstore@1.0.0-1:
-    resolution: {integrity: sha512-RVfm/vexsPklFxZpb2Fg7g77HlrpKjrig79e+y0rCxZp+sqL42hCPgZ7Fc/0u5K14OsJwIIyTYgmhLDaktOg+w==}
+  /ixstore@1.0.0:
+    resolution: {integrity: sha512-FKqRggECpBMiqSFJxvoT/Zyh/s6D7Y2UZTneBtqGiTy2sIcXLFAMqeO7Hk0mnQ+vBF65+p+FO6r8OKyP7Dw4Bw==}
     dependencies:
-      ixclone: 1.0.0-0
+      ixclone: 1.0.0
     dev: false
 
   /jju@1.4.0:
