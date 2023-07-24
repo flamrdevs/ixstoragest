@@ -1,6 +1,6 @@
 {
   "name": "ixstoragest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple state management with storage",
   "type": "module",
   "main": "./dist/index.cjs",
