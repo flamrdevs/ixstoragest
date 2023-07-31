@@ -1,29 +1,45 @@
 <p align="center">
   <a title="license" href="https://github.com/flamrdevs/ixstoragest/blob/main/LICENSE">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/core/badge?t=dark&v=MIT">
-      <img alt="license" src="https://flamrdevs.cyclic.app/core/badge?t=light&v=MIT" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l?t=dark&n=ixstoragest">
+      <img alt="license" src="https://none.deno.dev/npm/l?t=light&n=ixstoragest" hspace="1">
     </picture>
   </a>
   <a title="version" href="https://www.npmjs.com/package/ixstoragest">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/npm/version?t=dark&n=ixstoragest">
-      <img alt="version" src="https://flamrdevs.cyclic.app/npm/version?t=light&n=ixstoragest" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v?t=dark&n=ixstoragest">
+      <img alt="version" src="https://none.deno.dev/npm/v?t=light&n=ixstoragest" hspace="1">
     </picture>
   </a>
   <a title="size" href="https://bundlejs.com/?q=ixstoragest">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/bundlejs/size?t=dark&n=ixstoragest">
-      <img alt="size" src="https://flamrdevs.cyclic.app/bundlejs/size?t=light&n=ixstoragest" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/bundlejs/mz?t=dark&n=ixstoragest">
+      <img alt="size" src="https://none.deno.dev/bundlejs/mz?t=light&n=ixstoragest" hspace="1">
     </picture>
   </a>
 </p>
 
-# ixstoragest
+<h1 id="ixstoragest">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/ui/icon/lucide?t=dark&i=rocket">
+    <img alt="lucide rocket" src="https://none.deno.dev/ui/icon/lucide?t=light&i=rocket" hspace="1">
+  </picture>
+  <span>
+    ixstoragest
+  </span>
+</h1>
 
 simple state management with storage
 
-## Usage
+<h2 id="usage">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/ui/icon/lucide?t=dark&i=code">
+    <img alt="lucide code" src="https://none.deno.dev/ui/icon/lucide?t=light&i=code" hspace="1">
+  </picture>
+  <span>
+    usage
+  </span>
+</h2>
 
 ```ts
 import ixstoragest from "ixstoragest";
@@ -47,6 +63,14 @@ store.get().hello; // ixstore
 unsub();
 ```
 
-## License
+<h2 id="license">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/ui/icon/lucide?t=dark&i=scale">
+    <img alt="lucide scale" src="https://none.deno.dev/ui/icon/lucide?t=light&i=scale" hspace="1">
+  </picture>
+  <span>
+    license
+  </span>
+</h2>
 
 MIT
