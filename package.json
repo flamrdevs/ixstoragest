@@ -46,7 +46,7 @@
     "vitest": "^0.33.0"
   },
   "dependencies": {
-    "ixstorage": "1.0.4",
-    "ixstore": "1.0.4"
+    "ixstorage": "1.0.5",
+    "ixstore": "1.0.5"
   }
 }
